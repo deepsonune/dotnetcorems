@@ -1,0 +1,14 @@
+/home/ubuntu/dotnetcorems/bin/Debug/netcoreapp2.1/dotnetcorems.deps.json
+/home/ubuntu/dotnetcorems/bin/Debug/netcoreapp2.1/dotnetcorems.runtimeconfig.json
+/home/ubuntu/dotnetcorems/bin/Debug/netcoreapp2.1/dotnetcorems.runtimeconfig.dev.json
+/home/ubuntu/dotnetcorems/bin/Debug/netcoreapp2.1/dotnetcorems.dll
+/home/ubuntu/dotnetcorems/bin/Debug/netcoreapp2.1/dotnetcorems.pdb
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.csprojAssemblyReference.cache
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.csproj.CoreCompileInputs.cache
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.RazorAssemblyInfo.cache
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.RazorAssemblyInfo.cs
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.AssemblyInfoInputs.cache
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.AssemblyInfo.cs
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.RazorTargetAssemblyInfo.cache
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.dll
+/home/ubuntu/dotnetcorems/obj/Debug/netcoreapp2.1/dotnetcorems.pdb
